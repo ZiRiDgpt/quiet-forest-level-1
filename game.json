@@ -155,10 +155,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-continuous-join-v4.png",
+        "file": "assets/forest-continuous-join-v5.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-continuous-join-v4.png",
+        "name": "forest-continuous-join-v5.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -988,7 +988,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-continuous-join-v4.png",
+              "name": "forest-continuous-join-v5.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -997,7 +997,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-continuous-join-v4.png",
+                      "image": "forest-continuous-join-v5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
