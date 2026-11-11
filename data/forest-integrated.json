@@ -1,0 +1,78 @@
+{
+  "backgrounds": {
+    "ForestBackground": "forest-textured-west-v1.png",
+    "ForestExtension": "forest-textured-east-v1.png"
+  },
+  "patches": {
+    "squirrel": {
+      "file": "forest-reveal-squirrel-v1.png",
+      "x": 411.2109375,
+      "y": 44.1796875,
+      "width": 175.5859375,
+      "height": 181.81640625
+    },
+    "owl": {
+      "file": "forest-reveal-owl-v1.png",
+      "x": 923.2421875,
+      "y": 22.65625,
+      "width": 125.7421875,
+      "height": 145.56640625
+    },
+    "mushroom": {
+      "file": "forest-reveal-mushroom-v1.png",
+      "x": 282.63671875,
+      "y": 274.140625,
+      "width": 124.609375,
+      "height": 129.70703125
+    },
+    "hedgehog": {
+      "file": "forest-reveal-hedgehog-v1.png",
+      "x": 802.03125,
+      "y": 288.8671875,
+      "width": 149.53125,
+      "height": 133.671875
+    },
+    "acorn": {
+      "file": "forest-reveal-acorn-v1.png",
+      "x": 1399.0234375,
+      "y": 103.65234375,
+      "width": 102.51953125,
+      "height": 115.546875
+    },
+    "bird": {
+      "file": "forest-reveal-bird-v1.png",
+      "x": 2014.70703125,
+      "y": 13.59375,
+      "width": 147.265625,
+      "height": 134.8046875
+    },
+    "snail": {
+      "file": "forest-reveal-snail-v1.png",
+      "x": 1390.52734375,
+      "y": 310.390625,
+      "width": 135.9375,
+      "height": 109.8828125
+    },
+    "leaf": {
+      "file": "forest-reveal-leaf-v1.png",
+      "x": 1597.83203125,
+      "y": 279.23828125,
+      "width": 111.58203125,
+      "height": 90.625
+    },
+    "flower": {
+      "file": "forest-reveal-flower-v1.png",
+      "x": 1783.046875,
+      "y": 307.55859375,
+      "width": 120.078125,
+      "height": 127.44140625
+    },
+    "fox": {
+      "file": "forest-reveal-fox-v1.png",
+      "x": 2092.87109375,
+      "y": 215.234375,
+      "width": 159.16015625,
+      "height": 181.81640625
+    }
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {"id":"acorn","title":"На дубовой ветке","object":"Жёлудь","size":10,"x":125,"y":33,"displaySize":88},
+  {"id":"snail","title":"У папоротника","object":"Улитка","size":10,"x":117,"y":77,"displaySize":104},
+  {"id":"leaf","title":"Золото осени","object":"Лист","size":10,"x":143,"y":61,"displaySize":86},
+  {"id":"flower","title":"Лесной цветок","object":"Фиалка","size":10,"x":156,"y":84,"displaySize":82},
+  {"id":"bird","title":"Песня над ручьём","object":"Птичка","size":10,"x":180,"y":18,"displaySize":100},
+  {"id":"fox","title":"Рыжий силуэт","object":"Лиса","size":15,"x":187,"y":70,"displaySize":142}
+]
