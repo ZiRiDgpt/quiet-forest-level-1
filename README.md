@@ -1,6 +1,8 @@
 # Тихий лес · Лесная поляна
 
-[Играть в браузере](https://ziridgpt.github.io/quiet-forest-level-1/)
+[Играть в браузере на GitHub Pages](https://ziridgpt.github.io/quiet-forest-level-1/)
+
+[Открыть сборку с обновлённой панорамой через Githack](https://raw.githack.com/ZiRiDgpt/quiet-forest-level-1/f4f00bb/docs/index.html)
 
 Первый уровень игры для GDevelop 5.6.284. На двух частях панорамы спрятано десять находок. Семь головоломок имеют размер 10×10, три — 15×15.
 
