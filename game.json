@@ -155,10 +155,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-continuous-join-v2.png",
+        "file": "assets/forest-continuous-join-v3.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-continuous-join-v2.png",
+        "name": "forest-continuous-join-v3.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -259,10 +259,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-reveal-owl-v1.png",
+        "file": "assets/forest-reveal-owl-v2.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-reveal-owl-v1.png",
+        "name": "forest-reveal-owl-v2.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -283,10 +283,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-reveal-acorn-v1.png",
+        "file": "assets/forest-reveal-acorn-v2.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-reveal-acorn-v1.png",
+        "name": "forest-reveal-acorn-v2.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -988,7 +988,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-continuous-join-v2.png",
+              "name": "forest-continuous-join-v3.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -997,7 +997,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-continuous-join-v2.png",
+                      "image": "forest-continuous-join-v3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2705,7 +2705,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-reveal-owl-v1.png",
+              "name": "forest-reveal-owl-v2.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2714,7 +2714,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-reveal-owl-v1.png",
+                      "image": "forest-reveal-owl-v2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2828,7 +2828,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-reveal-acorn-v1.png",
+              "name": "forest-reveal-acorn-v2.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2837,7 +2837,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-reveal-acorn-v1.png",
+                      "image": "forest-reveal-acorn-v2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3232,13 +3232,13 @@
         },
         {
           "name": "ForestJoin",
-          "x": 1024.58984375,
+          "x": 857.5,
           "y": 190,
           "zOrder": 1,
           "layer": "",
           "angle": 0,
           "customSize": true,
-          "width": 421.97265625,
+          "width": 725.0,
           "height": 435,
           "persistentUuid": "9b5f7659-e51a-4ca4-a213-8d87952a3e4a",
           "numberProperties": [],
@@ -3833,7 +3833,7 @@
         {
           "name": "ForestArt_acorn",
           "x": 1459.0234375,
-          "y": 293.65234375,
+          "y": 296.484375,
           "zOrder": 2,
           "layer": "",
           "angle": 0,
