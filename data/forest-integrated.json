@@ -14,7 +14,7 @@
     "owl": {
       "file": "forest-reveal-owl-v2.png",
       "x": 923.2421875,
-      "y": 22.65625,
+      "y": 14.16015625,
       "width": 125.7421875,
       "height": 145.56640625
     },
@@ -34,8 +34,8 @@
     },
     "acorn": {
       "file": "forest-reveal-acorn-v2.png",
-      "x": 1399.0234375,
-      "y": 106.484375,
+      "x": 1259.12109375,
+      "y": 93.45703125,
       "width": 102.51953125,
       "height": 115.546875
     },
@@ -76,8 +76,8 @@
     }
   },
   "junction": {
-    "file": "forest-continuous-join-v3.png",
+    "file": "forest-continuous-join-v4.png",
     "x": 797.5,
-    "width": 725.0
+    "width": 978.75
   }
 }

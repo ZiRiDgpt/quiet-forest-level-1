@@ -155,10 +155,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-continuous-join-v3.png",
+        "file": "assets/forest-continuous-join-v4.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-continuous-join-v3.png",
+        "name": "forest-continuous-join-v4.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -988,7 +988,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-continuous-join-v3.png",
+              "name": "forest-continuous-join-v4.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -997,7 +997,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-continuous-join-v3.png",
+                      "image": "forest-continuous-join-v4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3158,7 +3158,7 @@
         {
           "name": "Discovery_owl",
           "x": 992.05,
-          "y": 231.56,
+          "y": 223.06390625,
           "zOrder": 3,
           "layer": "",
           "angle": 0,
@@ -3238,7 +3238,7 @@
           "layer": "",
           "angle": 0,
           "customSize": true,
-          "width": 725.0,
+          "width": 978.75,
           "height": 435,
           "persistentUuid": "9b5f7659-e51a-4ca4-a213-8d87952a3e4a",
           "numberProperties": [],
@@ -3502,8 +3502,8 @@
         },
         {
           "name": "Discovery_acorn",
-          "x": 1478.06,
-          "y": 318.89,
+          "x": 1338.15765625,
+          "y": 305.86265625,
           "zOrder": 3,
           "layer": "",
           "angle": 0,
@@ -3788,7 +3788,7 @@
         {
           "name": "ForestArt_owl",
           "x": 983.2421875,
-          "y": 212.65625,
+          "y": 204.16015625,
           "zOrder": 2,
           "layer": "",
           "angle": 0,
@@ -3832,8 +3832,8 @@
         },
         {
           "name": "ForestArt_acorn",
-          "x": 1459.0234375,
-          "y": 296.484375,
+          "x": 1319.12109375,
+          "y": 283.45703125,
           "zOrder": 2,
           "layer": "",
           "angle": 0,
