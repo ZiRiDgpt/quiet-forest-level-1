@@ -155,10 +155,10 @@
         "userAdded": true
       },
       {
-        "file": "assets/forest-join.svg",
+        "file": "assets/forest-continuous-join-v1.png",
         "kind": "image",
         "metadata": "",
-        "name": "forest-join.svg",
+        "name": "forest-continuous-join-v1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -988,7 +988,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "forest-join.svg",
+              "name": "forest-continuous-join-v1.png",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -997,7 +997,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "forest-join.svg",
+                      "image": "forest-continuous-join-v1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3232,13 +3232,13 @@
         },
         {
           "name": "ForestJoin",
-          "x": 1153,
+          "x": 1112.3828125,
           "y": 190,
           "zOrder": 1,
           "layer": "",
           "angle": 0,
           "customSize": true,
-          "width": 134,
+          "width": 334.1796875,
           "height": 435,
           "persistentUuid": "9b5f7659-e51a-4ca4-a213-8d87952a3e4a",
           "numberProperties": [],

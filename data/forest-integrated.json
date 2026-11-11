@@ -74,5 +74,10 @@
       "width": 159.16015625,
       "height": 181.81640625
     }
+  },
+  "junction": {
+    "file": "forest-continuous-join-v1.png",
+    "x": 1052.3828125,
+    "width": 334.1796875
   }
 }
