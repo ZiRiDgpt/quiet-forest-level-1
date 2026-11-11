@@ -1,0 +1,12 @@
+{
+  "name": "Тихий лес",
+  "short_name": "Тихий лес",
+  "id": "com.quietforest.nonogram",
+  "description": "Нонограммы и открытия на лесной поляне",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
